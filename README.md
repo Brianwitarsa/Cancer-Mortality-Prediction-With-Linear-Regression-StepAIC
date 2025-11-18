@@ -1,4 +1,4 @@
-# Cancer Mortality Prediction Using Linear Regression & StepAIC
+# Cancer Mortality Prediction Using StepAIC
 
 This project analyzes socioeconomic, demographic, and healthcare coverage variables to understand their predictive impact on U.S. cancer mortality rates. Using R, linear modeling, and stepwise AIC selection, the goal was to identify which factors most strongly influence cancer death rates and build a reliable regression model.
 
